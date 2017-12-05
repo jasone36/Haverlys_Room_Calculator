@@ -1,1 +1,1 @@
-# Haverlys_Room_Calculator
+This program calculates the area of a given room.
